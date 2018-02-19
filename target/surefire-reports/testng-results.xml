@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression" duration-ms="186782" started-at="2017-09-24T16:37:40Z" finished-at="2017-09-24T16:40:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="186782" started-at="2017-09-24T16:37:40Z" finished-at="2017-09-24T16:40:47Z">
+      <class name="com.alg.test.executionengine.Executor">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="setUp" is-config="true" duration-ms="345" started-at="2017-09-24T12:37:40Z" finished-at="2017-09-24T12:37:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="beforeClass" is-config="true" duration-ms="802" started-at="2017-09-24T12:37:40Z" finished-at="2017-09-24T12:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="testCase" duration-ms="22452" started-at="2017-09-24T12:37:41Z" data-provider="TestCases" finished-at="2017-09-24T12:38:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="testCase" duration-ms="19747" started-at="2017-09-24T12:38:04Z" data-provider="TestCases" finished-at="2017-09-24T12:38:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="testCase" duration-ms="20494" started-at="2017-09-24T12:38:23Z" data-provider="TestCases" finished-at="2017-09-24T12:38:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="testCase" duration-ms="19028" started-at="2017-09-24T12:38:44Z" data-provider="TestCases" finished-at="2017-09-24T12:39:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="testCase" duration-ms="18024" started-at="2017-09-24T12:39:03Z" data-provider="TestCases" finished-at="2017-09-24T12:39:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="testCase" duration-ms="18015" started-at="2017-09-24T12:39:21Z" data-provider="TestCases" finished-at="2017-09-24T12:39:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="testCase" duration-ms="22004" started-at="2017-09-24T12:39:39Z" data-provider="TestCases" finished-at="2017-09-24T12:40:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="testCase" duration-ms="20826" started-at="2017-09-24T12:40:01Z" data-provider="TestCases" finished-at="2017-09-24T12:40:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="testCase" duration-ms="25055" started-at="2017-09-24T12:40:22Z" data-provider="TestCases" finished-at="2017-09-24T12:40:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="afterClass" is-config="true" duration-ms="282" started-at="2017-09-24T12:40:47Z" finished-at="2017-09-24T12:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.alg.test.executionengine.Executor@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-09-24T12:40:47Z" finished-at="2017-09-24T12:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.alg.test.executionengine.Executor -->
+    </test> <!-- Test -->
+  </suite> <!-- Regression -->
+</testng-results>
